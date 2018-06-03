@@ -1,0 +1,14 @@
+{
+  "name": "web_rizal",
+  "authors": [
+    "baysptr <bayu.bayusaputra11@gmail.com>"
+  ],
+  "description": "web for skripsi",
+  "main": "index.php",
+  "keywords": [
+    "e-stnk"
+  ],
+  "license": "MIT",
+  "homepage": "dashboard",
+  "private": true
+}

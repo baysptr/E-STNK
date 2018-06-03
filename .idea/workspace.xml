@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de8c7ac5-34ba-44c3-abb9-4ceb37ca209c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="identitas_kendaraan.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/identitas_kendaraan.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1023">
+              <caret line="265" column="85" lean-forward="true" selection-start-line="265" selection-start-column="85" selection-end-line="265" selection-end-column="85" />
+              <folding>
+                <element signature="e#9634#9640#1#HTML" expanded="true" />
+                <element signature="e#12267#12273#1#HTML" expanded="true" />
+                <marker date="1528050986503" expanded="true" signature="2980:3110" ph="select * fro... m_kendaraan" />
+                <marker date="1528050986503" expanded="true" signature="2980:3197" ph="select ident... identitas_kendaraan" />
+                <marker date="1528050986503" expanded="true" signature="5405:5493" ph="select * fro... m_kendaraan" />
+                <marker date="1528050986503" expanded="true" signature="5448:5492" ph="SELECT id_ke... identitas_kendaraan" />
+                <marker date="1528050986503" expanded="true" signature="5909:6039" ph="..." />
+                <marker date="1528050986503" expanded="true" signature="5909:6132" ph="..." />
+                <marker date="1528050986503" expanded="true" signature="6161:6287" ph="..." />
+                <marker date="1528050986503" expanded="true" signature="6161:6372" ph="..." />
+                <marker date="1528050986503" expanded="true" signature="7127:7168" ph="..." />
+                <marker date="1528050986503" expanded="true" signature="7127:7391" ph="..." />
+                <marker date="1528050986503" expanded="true" signature="7502:7619" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="do_ubah_identitas.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/do_ubah_identitas.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="17" column="87" lean-forward="false" selection-start-line="17" selection-start-column="87" selection-end-line="17" selection-end-column="87" />
+              <folding>
+                <marker date="1528051275293" expanded="true" signature="321:375" ph="update identitas_kendaraan... " />
+                <marker date="1528051275293" expanded="true" signature="321:391" ph="update identitas_kendaraan... " />
+                <marker date="1528051275293" expanded="true" signature="321:407" ph="update identitas_kendaraan... " />
+                <marker date="1528051275293" expanded="true" signature="321:425" ph="update identitas_kendaraan... " />
+                <marker date="1528051275293" expanded="true" signature="321:443" ph="update identitas_kendaraan... " />
+                <marker date="1528051275293" expanded="true" signature="321:473" ph="update identitas_kendaraan... " />
+                <marker date="1528051275293" expanded="true" signature="321:490" ph="update identitas_kendaraan... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="do_ubah_nopol.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/do_ubah_nopol.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="496">
+              <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+              <folding>
+                <marker date="1527959586340" expanded="true" signature="251:295" ph="select * fro... m_kendaraan" />
+                <marker date="1527959586340" expanded="true" signature="430:469" ph="update m_kendaraan... " />
+                <marker date="1527959586340" expanded="true" signature="430:485" ph="update m_kendaraan... " />
+                <marker date="1527959586340" expanded="true" signature="430:515" ph="update m_kendaraan... " />
+                <marker date="1527959586340" expanded="true" signature="430:541" ph="update m_kendaraan... " />
+                <marker date="1527959586340" expanded="true" signature="430:560" ph="update m_kendaraan... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/do_login.php" />
+        <option value="$PROJECT_DIR$/logout.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/do_nopol.php" />
+        <option value="$PROJECT_DIR$/del_nopol.php" />
+        <option value="$PROJECT_DIR$/det_nopol.php" />
+        <option value="$PROJECT_DIR$/ubah_nopol.php" />
+        <option value="$PROJECT_DIR$/input_nopol.php" />
+        <option value="$PROJECT_DIR$/do_ubah_nopol.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/do_identitas.php" />
+        <option value="$PROJECT_DIR$/del_identitas.php" />
+        <option value="$PROJECT_DIR$/det_identitas.php" />
+        <option value="$PROJECT_DIR$/identitas_kendaraan.php" />
+        <option value="$PROJECT_DIR$/do_ubah_identitas.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="web_rizal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web_rizal" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="SearchEverywhereHistoryKey" value="do_&#9;FILE&#9;file://C:/xampp/htdocs/web_rizal/do_nopol.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\web_rizal\bower_components\bootstrap\dist\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de8c7ac5-34ba-44c3-abb9-4ceb37ca209c" name="Default" comment="" />
+      <created>1527794296603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527794296603</updated>
+      <workItem from="1527794297930" duration="2416000" />
+      <workItem from="1527858159296" duration="1856000" />
+      <workItem from="1527876869149" duration="7487000" />
+      <workItem from="1527955474098" duration="5168000" />
+      <workItem from="1528043086774" duration="8013000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24940000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/identitas_kendaraan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding>
+            <element signature="e#9634#9640#1#HTML" expanded="true" />
+            <element signature="e#12267#12273#1#HTML" expanded="true" />
+            <marker date="1528050986503" expanded="true" signature="2980:3110" ph="select * fro... m_kendaraan" />
+            <marker date="1528050986503" expanded="true" signature="2980:3197" ph="select ident... identitas_kendaraan" />
+            <marker date="1528050986503" expanded="true" signature="5405:5493" ph="select * fro... m_kendaraan" />
+            <marker date="1528050986503" expanded="true" signature="5448:5492" ph="SELECT id_ke... identitas_kendaraan" />
+            <marker date="1528050986503" expanded="true" signature="5909:6039" ph="..." />
+            <marker date="1528050986503" expanded="true" signature="5909:6132" ph="..." />
+            <marker date="1528050986503" expanded="true" signature="6161:6287" ph="..." />
+            <marker date="1528050986503" expanded="true" signature="6161:6372" ph="..." />
+            <marker date="1528050986503" expanded="true" signature="7127:7168" ph="..." />
+            <marker date="1528050986503" expanded="true" signature="7127:7391" ph="..." />
+            <marker date="1528050986503" expanded="true" signature="7502:7619" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input_nopol.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="992">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <marker date="1527958167163" expanded="true" signature="2974:2999" ph="select * fro... m_kendaraan" />
+            <marker date="1527958167163" expanded="true" signature="2974:3000" ph="select * fro... m_kendaraan" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1528043295108" expanded="true" signature="1732:1849" ph="..." />
+            <marker date="1528043295108" expanded="true" signature="1966:2105" ph="..." />
+            <marker date="1528043295108" expanded="true" signature="2284:2468" ph="..." />
+            <marker date="1528043295108" expanded="true" signature="2536:2733" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/det_nopol.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding>
+            <marker date="1527884231462" expanded="true" signature="77:119" ph="select * fro... m_kendaraan" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="6" column="82" lean-forward="false" selection-start-line="6" selection-start-column="82" selection-end-line="6" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input_nopol.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6107">
+          <caret line="197" column="29" lean-forward="false" selection-start-line="197" selection-start-column="29" selection-end-line="197" selection-end-column="29" />
+          <folding>
+            <marker date="1527958167163" expanded="true" signature="2974:2999" ph="select * fro... m_kendaraan" />
+            <marker date="1527958167163" expanded="true" signature="2974:3000" ph="select * fro... m_kendaraan" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/del_nopol.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <marker date="1527883153386" expanded="true" signature="89:129" ph="delete from m_kendaraan... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1528043295108" expanded="true" signature="1732:1849" ph="..." />
+            <marker date="1528043295108" expanded="true" signature="1966:2105" ph="..." />
+            <marker date="1528043295108" expanded="true" signature="2284:2468" ph="..." />
+            <marker date="1528043295108" expanded="true" signature="2536:2733" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" column="70" lean-forward="false" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/do_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="15" column="86" lean-forward="false" selection-start-line="15" selection-start-column="86" selection-end-line="15" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1612">
+          <caret line="52" column="10" lean-forward="true" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="6" column="82" lean-forward="false" selection-start-line="6" selection-start-column="82" selection-end-line="6" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding>
+            <marker date="1528043295108" expanded="true" signature="1732:1849" ph="..." />
+            <marker date="1528043295108" expanded="true" signature="1966:2105" ph="..." />
+            <marker date="1528043295108" expanded="true" signature="2284:2468" ph="..." />
+            <marker date="1528043295108" expanded="true" signature="2536:2733" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/do_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="9" column="46" lean-forward="false" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="6" column="82" lean-forward="false" selection-start-line="6" selection-start-column="82" selection-end-line="6" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2356">
+          <caret line="76" column="24" lean-forward="false" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/bootstrap/dist/css/jumbotron.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../modul_pertama/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="9" column="74" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/do_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="15" column="86" lean-forward="false" selection-start-line="15" selection-start-column="86" selection-end-line="15" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" column="70" lean-forward="false" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="25" column="59" lean-forward="false" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="6" column="82" lean-forward="false" selection-start-line="6" selection-start-column="82" selection-end-line="6" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ubah_nopol.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" column="71" lean-forward="false" selection-start-line="5" selection-start-column="71" selection-end-line="5" selection-end-column="71" />
+          <folding>
+            <marker date="1527956848973" expanded="true" signature="79:123" ph="select * fro... m_kendaraan" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="40" column="51" lean-forward="true" selection-start-line="40" selection-start-column="51" selection-end-line="40" selection-end-column="51" />
+          <folding>
+            <marker date="1528043295108" expanded="true" signature="1732:1849" ph="..." />
+            <marker date="1528043295108" expanded="true" signature="1966:2105" ph="..." />
+            <marker date="1528043295108" expanded="true" signature="2284:2468" ph="..." />
+            <marker date="1528043295108" expanded="true" signature="2536:2733" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/do_nopol.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" column="39" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <marker date="1527882836853" expanded="true" signature="237:308" ph="insert into m_kendaraan... " />
+            <marker date="1527882836853" expanded="true" signature="237:351" ph="insert into m_kendaraan... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/do_identitas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="16" column="76" lean-forward="false" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+          <folding>
+            <marker date="1528046300027" expanded="true" signature="295:484" ph="insert into identitas_kendaraan... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/del_identitas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="10" column="76" lean-forward="false" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
+          <folding>
+            <marker date="1528047532745" expanded="true" signature="77:125" ph="delete from identitas_kendaraan... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/del_nopol.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <marker date="1527883153386" expanded="true" signature="89:129" ph="delete from m_kendaraan... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/det_nopol.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="43" />
+          <folding>
+            <marker date="1527884231462" expanded="true" signature="77:119" ph="select * fro... m_kendaraan" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input_nopol.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="231" column="8" lean-forward="true" selection-start-line="231" selection-start-column="8" selection-end-line="238" selection-end-column="11" />
+          <folding>
+            <marker date="1527958167163" expanded="true" signature="2974:2999" ph="select * fro... m_kendaraan" />
+            <marker date="1527958167163" expanded="true" signature="2974:3000" ph="select * fro... m_kendaraan" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/det_identitas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" column="103" lean-forward="false" selection-start-line="5" selection-start-column="103" selection-end-line="5" selection-end-column="103" />
+          <folding>
+            <marker date="1528050186797" expanded="true" signature="77:261" ph="select * fro... m_kendaraan" />
+            <marker date="1528050186797" expanded="true" signature="77:266" ph="SELECT mk.no... identitas_kendaraan" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/identitas_kendaraan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1023">
+          <caret line="265" column="85" lean-forward="true" selection-start-line="265" selection-start-column="85" selection-end-line="265" selection-end-column="85" />
+          <folding>
+            <element signature="e#9634#9640#1#HTML" expanded="true" />
+            <element signature="e#12267#12273#1#HTML" expanded="true" />
+            <marker date="1528050986503" expanded="true" signature="2980:3110" ph="select * fro... m_kendaraan" />
+            <marker date="1528050986503" expanded="true" signature="2980:3197" ph="select ident... identitas_kendaraan" />
+            <marker date="1528050986503" expanded="true" signature="5405:5493" ph="select * fro... m_kendaraan" />
+            <marker date="1528050986503" expanded="true" signature="5448:5492" ph="SELECT id_ke... identitas_kendaraan" />
+            <marker date="1528050986503" expanded="true" signature="5909:6039" ph="..." />
+            <marker date="1528050986503" expanded="true" signature="5909:6132" ph="..." />
+            <marker date="1528050986503" expanded="true" signature="6161:6287" ph="..." />
+            <marker date="1528050986503" expanded="true" signature="6161:6372" ph="..." />
+            <marker date="1528050986503" expanded="true" signature="7127:7168" ph="..." />
+            <marker date="1528050986503" expanded="true" signature="7127:7391" ph="..." />
+            <marker date="1528050986503" expanded="true" signature="7502:7619" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/do_ubah_nopol.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <marker date="1527959586340" expanded="true" signature="251:295" ph="select * fro... m_kendaraan" />
+            <marker date="1527959586340" expanded="true" signature="430:469" ph="update m_kendaraan... " />
+            <marker date="1527959586340" expanded="true" signature="430:485" ph="update m_kendaraan... " />
+            <marker date="1527959586340" expanded="true" signature="430:515" ph="update m_kendaraan... " />
+            <marker date="1527959586340" expanded="true" signature="430:541" ph="update m_kendaraan... " />
+            <marker date="1527959586340" expanded="true" signature="430:560" ph="update m_kendaraan... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/do_ubah_identitas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="17" column="87" lean-forward="false" selection-start-line="17" selection-start-column="87" selection-end-line="17" selection-end-column="87" />
+          <folding>
+            <marker date="1528051275293" expanded="true" signature="321:375" ph="update identitas_kendaraan... " />
+            <marker date="1528051275293" expanded="true" signature="321:391" ph="update identitas_kendaraan... " />
+            <marker date="1528051275293" expanded="true" signature="321:407" ph="update identitas_kendaraan... " />
+            <marker date="1528051275293" expanded="true" signature="321:425" ph="update identitas_kendaraan... " />
+            <marker date="1528051275293" expanded="true" signature="321:443" ph="update identitas_kendaraan... " />
+            <marker date="1528051275293" expanded="true" signature="321:473" ph="update identitas_kendaraan... " />
+            <marker date="1528051275293" expanded="true" signature="321:490" ph="update identitas_kendaraan... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
